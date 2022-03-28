@@ -1,0 +1,8 @@
+{
+    "name": "RoyaltyTestToken",
+    "description": "I was want to test out EIP-2981 Royalty standard",
+    "image": "https://ipfs.io/ipfs/QmUnMkaEB5FBMDhjPsEtLyHr4ShSAoHUrwqVryCeuMosNr",
+    "external_link": "https://holyhansss.github.io/",
+    "seller_fee_basis_points": 1000, 
+    "fee_recipient": "0x0d3D56806fe6eeDe410Ea9722da9a6f65FD24799"
+  }
